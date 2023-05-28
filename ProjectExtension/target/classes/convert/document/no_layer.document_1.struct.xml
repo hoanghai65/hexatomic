@@ -1,0 +1,6 @@
+<?xml version="1.0" ?><!DOCTYPE paula SYSTEM "paula_struct.dtd"><paula version="1.1">	<header paula_id="no_layer.document_1.struct"/>	<structList xmlns:xlink="http://www.w3.org/1999/xlink" type="no_layer"><struct id="be.01">
+<rel id="sDomRel1" xlink:href="no_layer.document_1.mark.xml#span1_Arg0"/>
+<rel id="sDomRel2" xlink:href="no_layer.document_1.mark.xml#span2_Arg1"/>
+<rel id="sDomRel3" xlink:href="document_1.tok.xml#t2"/>
+</struct>
+		</structList></paula>

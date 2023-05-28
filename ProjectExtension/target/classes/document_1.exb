@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<speakertable>
+</speakertable>
+</head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0"/>
+<tli id="T1" time="1"/>
+<tli id="T2" time="2"/>
+<tli id="T3" time="3"/>
+<tli id="T4" time="4"/>
+<tli id="T5" time="5"/>
+<tli id="T6" time="6"/>
+<tli id="T7" time="7"/>
+<tli id="T8" time="8"/>
+<tli id="T9" time="9"/>
+<tli id="T10" time="10"/>
+<tli id="T11" time="11"/>
+<tli id="T12" time="12"/>
+</common-timeline>
+<tier id="TIE0" category="tok" type="t" display-name="[tok]">
+<event start="T0" end="T1">nó</event>
+<event start="T1" end="T2">vẽ</event>
+<event start="T2" end="T3">một</event>
+<event start="T3" end="T4">con</event>
+<event start="T4" end="T5">trăn</event>
+<event start="T5" end="T6">đang</event>
+<event start="T6" end="T7">nằm</event>
+<event start="T7" end="T8">chờ</event>
+<event start="T8" end="T9">tiêu hoá</event>
+<event start="T9" end="T10">một</event>
+<event start="T10" end="T11">con</event>
+<event start="T11" end="T12">voi</event>
+<event start="T12" end="T13">.</event>
+</tier>
+<tier id="TIE1" category="cat" type="a" display-name="[cat]">
+<event start="T0" end="T1">Arg0</event>
+<event start="T1" end="T2">draw.01</event>
+<event start="T2" end="T5">Arg0</event>
+<event start="T5" end="T6">ArgM-TMP</event>
+<event start="T6" end="T12">Arg1</event>
+<event start="T1" end="T2">Y</event>
+<event start="T2" end="T6">Arg1</event>
+<event start="T6" end="T7">lie.01</event>
+<event start="T7" end="T12">Arg1</event>
+<event start="T6" end="T7">Y</event>
+<event start="T7" end="T8">wait.01</event>
+<event start="T8" end="T12">Arg1</event>
+<event start="T7" end="T8">Y</event>
+<event start="T8" end="T9">digest.01</event>
+<event start="T9" end="T12">Arg1</event>
+<event start="T8" end="T9">Y</event>
+</tier>
+</basic-body>
+</basic-transcription>
